@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sirus.kafka.consumer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
